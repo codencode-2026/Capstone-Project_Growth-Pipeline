@@ -1,0 +1,8 @@
+* Situation
+Mamaearth generated a cleaned total revenue of INR 97,358.30 across 175 validated orders after accounting for a duplicate-driven reconciliation delta of INR 2,501.90.
+
+* Complication
+Returns are disproportionately concentrated in Cash on Delivery (COD) transactions, which exhibit a high return rate of 44.4%. The situation is most severe in Tier-2 cities under COD payment methods, where return rates peak at 54.5%, heavily eroding operating margins.
+
+* Resolution
+Regional operations and finance heads should impose targeted COD friction or verification controls in Tier-2 cities. Furthermore, underlying revenue trends reveal that 2026-03 was the true peak month at INR 20,318.90 once bulk order outliers were removed, providing a reliable baseline for demand planning.
